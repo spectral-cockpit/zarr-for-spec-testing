@@ -1,0 +1,8 @@
+# Overview
+
+Arrays are powerful data structures. The R language ships some
+common features for them in the base language. Nevertheless, there are very
+powerful frameworks that ease and speed up the work via arrays.
+
+Here I specifically focus on testing zarr written in python for a backend
+to handle 1D infrared spectroscopic data.
